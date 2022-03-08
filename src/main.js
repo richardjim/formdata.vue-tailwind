@@ -4,6 +4,6 @@ import "./assets/css/main.css";
 
 
 
-Vue.config.productionTip = false
+// Vue.config.productionTip = false
 
 createApp(App).mount('#app')
